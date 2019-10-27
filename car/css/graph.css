@@ -1,0 +1,25 @@
+.chart-first
+{
+	fill: #FB3033;
+}
+.chart-second
+{
+	fill: #F2BA3A;
+}
+.chart-third
+{
+	fill: #FFE400;
+}
+.chart-four
+{
+	fill: #BCE55C;
+}
+.chart-five
+{
+	fill: #9FBD35;
+}
+.needle, .needle-center
+{
+	fill: #000000;
+}
+
